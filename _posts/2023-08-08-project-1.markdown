@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2023-08-10
+date: 2023-08-08
 img: omechu.png
 alt: image-alt
 project-date: September 2021
