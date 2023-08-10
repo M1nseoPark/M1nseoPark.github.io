@@ -483,6 +483,7 @@ footer .footer-below {
 }
 
 .material-symbols-outlined {
+    font-size: 90px;
     font-variation-settings:
     'FILL' 1,
     'wght' 400,
